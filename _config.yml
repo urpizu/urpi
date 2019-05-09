@@ -1,24 +1,25 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Guillem Orpinell
+bio: Product Designer
 
-description: Eve Adam's Personal Website
+description: Guillem's portfolio
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://uxurpi.com
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: uxurpi
+twitter: urpizu
+medium: urpi
+github: urpizu
+email: guillem@uxurpi.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -28,20 +29,19 @@ email: myemail@gmail.com
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # do you want to display an about section? true or false
 about: true
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
@@ -78,7 +78,7 @@ project-list:
 
 
 # do you want to display the theme attribution? true or false
-footer: true
+footer: false
 
 # Enable animations? true or false
 animation: true
