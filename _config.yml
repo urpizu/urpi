@@ -1,6 +1,6 @@
 # Your name and what you do
 name: Guillem Orpinell
-bio: Product Designer
+bio: Product Manager
 
 description: Guillem's portfolio
 
@@ -8,18 +8,18 @@ description: Guillem's portfolio
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://uxurpi.com
+url: https://urpi.ninja
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-linkedin: uxurpi
-twitter: urpizu
+linkedin: urpi
+twitter: urpininja
 medium: urpi
 github: urpizu
-email: guillem@uxurpi.com
+email: guillem.orpinell@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -66,7 +66,7 @@ project-list:
     Flatmates:
         name: 🏘️ Flatmates app — UX/UI case study
         description: A product design exploring the scope and the visual outcome for a renting rooms app.
-        url: https://github.com/jibolash/world-cup-history
+        url: https://medium.com/@urpi/flatmates-app-a-ux-case-study-2dddea5e64d9
     Spreadsheets:
         name: 🕹️ Productivity tools in Game Design
         description: A set of improvements on quality and efficiency by designing features, processes and tools.
